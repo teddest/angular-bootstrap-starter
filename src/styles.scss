@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'scss/variables';
+@import '~bootstrap/scss/bootstrap';
+@import '../node_modules/font-awesome/scss/font-awesome';
+body {
+  padding-top: 1rem;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
