@@ -1,4 +1,8 @@
-# AngularBootstrapStarter
+# Angular Bootstrap Starter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/teddest/angular-bootstrap-starter.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/teddest/angular-bootstrap-starter.svg?branch=master)](https://travis-ci.org/teddest/angular-bootstrap-starter)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/teddest/angular-bootstrap-starter/blob/master/LICENSE)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
