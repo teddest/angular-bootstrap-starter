@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/teddest/angular-bootstrap-starter.svg?branch=master)](https://travis-ci.org/teddest/angular-bootstrap-starter)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/teddest/angular-bootstrap-starter/blob/master/LICENSE)
 
-Boiler plate Angular app with bootstrap 4 and ng-bootstrap wired up.
+Boilerplate Angular app with bootstrap 4 and ng-bootstrap wired up.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
