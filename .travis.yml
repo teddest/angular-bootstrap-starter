@@ -24,6 +24,6 @@ before_script:
   - sudo dpkg -i google-chrome*.deb
 
 script:
-  - ng test --watch false --code-coverage
+  - ng test --watch false
   - npm run e2e
   - ng build --prod
