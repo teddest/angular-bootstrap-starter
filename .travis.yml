@@ -15,5 +15,5 @@ before_script:
 
 script:
   - ng test --watch false --code-coverage
-  - npn run e2e
+  - npm run e2e
   - ng build --prod
