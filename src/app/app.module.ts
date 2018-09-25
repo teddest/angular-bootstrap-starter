@@ -16,7 +16,7 @@ import { PublicComponent } from './public/public.component';
   ],
   imports: [
     BrowserModule,
-    NgbModule.forRoot(),
+    NgbModule,
     AppRoutingModule
   ],
   providers: [],
