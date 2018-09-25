@@ -16,7 +16,7 @@ describe('PublicComponent', () => {
       ],
       imports: [
         RouterTestingModule,
-        NgbModule.forRoot()
+        NgbModule
       ]
     });
     TestBed.compileComponents();
