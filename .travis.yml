@@ -25,5 +25,5 @@ before_script:
 
 script:
   - ng test --watch false
-  - npm run cy:run
   - ng build --prod
+  - npm run cy:ci
