@@ -12,7 +12,7 @@ branches:
     - /^greenkeeper/.*$/
 
 cache: false
-    
+
 before_script:
   - npm install -g @angular/cli
   - export CHROME_BIN=/usr/bin/google-chrome
@@ -25,5 +25,5 @@ before_script:
 
 script:
   - ng test --watch false
-  - npm run e2e
+  - npm run cy:run
   - ng build --prod
