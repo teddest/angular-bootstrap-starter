@@ -10,7 +10,7 @@
     "lint": "ng lint",
     "cy:open": "cypress open",
     "cy:run": "cypress run",
-    "cy:ci": "run-p --race start:ci cy:run",
+    "cy:e2e": "run-p --race start:ci cy:run",
     "start:ci": "http-server ./dist -a localhost -p 4200 -c-1"
   },
   "private": true,
