@@ -24,7 +24,7 @@
     "@angular/platform-browser": "7.2.3",
     "@angular/platform-browser-dynamic": "7.2.3",
     "@angular/router": "7.2.3",
-    "@ng-bootstrap/ng-bootstrap": "4.0.3",
+    "@ng-bootstrap/ng-bootstrap": "4.0.4",
     "bootstrap": "4.3.1",
     "core-js": "^2.6.2",
     "font-awesome": "^4.7.0",
@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "0.13.3",
-    "@angular/cli": "7.3.2",
+    "@angular/cli": "7.3.3",
     "@angular/compiler-cli": "7.2.3",
     "@angular/language-service": "7.2.3",
     "@bahmutov/add-typescript-to-cypress": "^2.0.0",
