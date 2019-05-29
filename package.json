@@ -39,7 +39,7 @@
     "@angular/language-service": "~8.0.0",
     "@bahmutov/add-typescript-to-cypress": "^2.0.4",
     "@compodoc/compodoc": "^1.1.9",
-    "@schematics/angular": "~7.3.5",
+    "@schematics/angular": "~8.0.0",
     "@types/jasmine": "~2.8.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~12.0.1",
