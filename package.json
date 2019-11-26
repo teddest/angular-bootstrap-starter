@@ -45,7 +45,7 @@
     "@types/node": "~12.12.7",
     "codelyzer": "~5.1.0",
     "cypress": "3.5.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.0",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~4.4.0",
