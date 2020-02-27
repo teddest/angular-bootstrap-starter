@@ -1,4 +1,4 @@
-# Boilerplate Angular 9 / Bootstrap 4 / ng-bootstrap 5
+# Boilerplate Angular 9 / Bootstrap 4 / ng-bootstrap 6
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/teddest/angular-bootstrap-starter.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/teddest/angular-bootstrap-starter.svg?branch=master)](https://travis-ci.org/teddest/angular-bootstrap-starter)
