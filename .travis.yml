@@ -8,7 +8,7 @@ dist: trusty
 branches:
   only:
     - master
-    - /^greenkeeper/.*$/
+    - /^snyk-.*$/
 
 cache: false
 
